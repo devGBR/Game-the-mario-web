@@ -1,0 +1,1 @@
+document.addEventlistener('keyup',jump);
